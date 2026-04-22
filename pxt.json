@@ -1,0 +1,56 @@
+{
+    "name": "[name] AI Bug Arena Challenge",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "bug-arena": "github:riknoll/bug-arena"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable4.0",
+        "tag": "v4.0.14",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/a33ec9537bc6c5fada2a3b02aac57a4bc9a10803",
+        "target": "4.0.14",
+        "pxt": "12.2.34",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "toolboxFilter": {
+        "namespaces": {
+            "paths": "hidden",
+            "angleutil": "hidden",
+            "sprites": "hidden",
+            "controller": "hidden",
+            "game": "hidden",
+            "music": "hidden",
+            "scene": "hidden",
+            "info": "hidden",
+            "loops": "hidden",
+            "fancyText": "hidden",
+            "transitions": "hidden",
+            "screenTransitions": "hidden",
+            "animation": "hidden",
+            "animations": "hidden",
+            "sound": "hidden",
+            "browserEvents": "hidden",
+            "images": "hidden",
+            "arrays": "hidden",
+            "console": "hidden",
+            "functions": "hidden",
+            "function": "hidden"
+        },
+        "blocks": {}
+    }
+}
