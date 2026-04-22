@@ -1,3 +1,4 @@
+/*Below are the functions used in the AI Bug Arena namespace:
 hourOfAi.every(500, function () {
 	
 })
@@ -21,3 +22,4 @@ hourOfAi.distanceToOpponent()
 hourOfAi.canSeeOpponent()
 hourOfAi.setFillColor(FillColor.Red)
 hourOfAi.setBugColor(ColorTarget.Body, Color.Red)
+*/
